@@ -14,6 +14,7 @@ jobs:
     generate:
         runs-on: ubuntu-latest
         timeout-minutes: 10
+
         steps:
             -
                 # Checkout
@@ -22,12 +23,13 @@ jobs:
             -
                 # generates a snake game from a github user (<github_user_name>) 
                 name: Generate github-contribution-grid-snake.svg
-                uses: Platane/snk/svg-only@v2
+                uses: Platane/snk@v2
                 with:
-                    github_user_name: ${{ github.repository.owner }}
+                    github_user_name: ${{ github.repository_owner }}
                     outputs: |
-                        dist/github-contribution-grid-snake.svg
-                        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+                        dist/github-snake.svg
+                        dist/github-snake-dark.svg?palette=github-dark
+                        dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             -
                 # check availability of GitHub Pages
                 name: Check Github Pages status
