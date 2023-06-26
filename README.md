@@ -14,7 +14,7 @@ I have a deep passion for programming, and I hold a special fondness for the lan
 
 ### My GitHub Contributions
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/upupnoah/upupnoah/main/assets/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/upupnoah/upupnoah/output/github-snake.svg)
 
 ### My GitHub Stats
 
