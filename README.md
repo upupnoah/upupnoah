@@ -1,14 +1,14 @@
 # Profile
 
-## Hey 👋, I'm Noah🍀
+## Hey 👋, I'm 🍀 Noah
 
 Hi there, I'm **Noah**, a **Programmer**.
-I have a deep passion for programming, and I hold a special fondness for the languages **Golang** and **Rust**. Their elegance and power captivate me, and I find immense joy in crafting code with these remarkable tools.
+I have a deep passion for programming, and I hold a special fondness for the languages **Go** and **Rust**. Their elegance and power captivate me, and I find immense joy in crafting code with these remarkable tools.
 
-### Talking about Personal Stuffs
+### About me
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+- ❤️ I love Go and Rust
+- 💬 Ask me about anything [here](https://github.com/upupnoah/upupnoah/issues)
 
 <!-- ### Contact me -->
 
@@ -16,9 +16,9 @@ I have a deep passion for programming, and I hold a special fondness for the lan
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/upupnoah/upupnoah/output/github-snake.svg)
 
-### My GitHub Stats
+## **GitHub Estatísticas**
 
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=upupnoah&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upupnoah&layout=compact)
+| [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=upupnoah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upupnoah&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
+| ------------- | ------------- |
 
-⭐️ From [upupnoah](https://github.com/upupnoah)
+![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upupnoah&theme=buefy)
