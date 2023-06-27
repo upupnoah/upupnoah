@@ -18,7 +18,7 @@ I have a deep passion for programming, and I hold a special fondness for the lan
 
 ## **GitHub Estatísticas**
 
-| [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=upupnoah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upupnoah&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
+| [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=upupnoah&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/upupnoah)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upupnoah&layout=compact&theme=buefy&hide_border=true)](https://github.com/upupnoah)|
 | ------------- | ------------- |
 
 ![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=upupnoah&theme=buefy)
