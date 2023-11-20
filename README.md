@@ -1,14 +1,12 @@
 # Profile
 
-## Hey 👋, I'm 🍀 Noah
+# Hi there! 👋 I'm Noah
 
-Hi there, I'm **Noah**, a **Programmer**.
-I have a deep passion for programming, and I hold a special fondness for the languages **Go** and **Rust**. Their elegance and power captivate me, and I find immense joy in crafting code with these remarkable tools.
+## Programmer | Cloud Native & Web3 Enthusiast
 
-### About me
+I'm a programmer with a deep-seated passion for coding and the magic it unfolds. My toolbox is rich with various languages, but I hold a special fondness for **Go** and **Rust**—languages that empower me to build robust and efficient systems.
 
-- ❤️ I love Go and Rust
-- 💬 Ask me about anything [here](https://github.com/upupnoah/upupnoah/issues)
+The realm of **Cloud Native** technologies and the innovative horizon of **Web3** fascinate me. I'm continuously exploring these fields to contribute to the evolving landscape of distributed systems and decentralized applications.
 
 <!-- ### Contact me -->
 
