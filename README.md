@@ -1,5 +1,3 @@
-# Profile
-
 # Hi there! 👋 I'm Noah
 
 ## Programmer | Cloud Native & Web3 Enthusiast
