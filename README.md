@@ -1,10 +1,6 @@
 # Hi there! 👋 I'm Noah
 
-## Programmer | Cloud Native & Web3 Enthusiast
-
-I'm a programmer with a deep-seated passion for coding and the magic it unfolds. My toolbox is rich with various languages, but I hold a special fondness for **Go** and **Rust**—languages that empower me to build robust and efficient systems.
-
-The realm of **Cloud Native** technologies and the innovative horizon of **Web3** fascinate me. I'm continuously exploring these fields to contribute to the evolving landscape of distributed systems and decentralized applications.
+## Programmer
 
 <!-- ### Contact me -->
 
