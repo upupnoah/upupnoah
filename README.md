@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Noah
 
-## Programmer
+<!-- ## Programmer -->
 
 <!-- ### Contact me -->
 
