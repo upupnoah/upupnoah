@@ -1,5 +1,5 @@
 
-[<img src="./intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="./intro.gif" alt="👋 Hi there! I'm Noah" title="👋 Hi there! I'm Noah"/>](https://github.com/upupnoah)
 <!-- ## Programmer -->
 
 <!-- ### Contact me -->
