@@ -10,7 +10,7 @@
 
 ## GitHub Estatísticas
 
-| [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=upupnoah&show_icons=true&theme=merko&hide_border=true)](https://github.com/upupnoah)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upupnoah&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)](https://github.com/upupnoah)|
+| [![Noah's github stats](https://github-readme-stats-three-phi-10.vercel.app/api?username=upupnoah&show_icons=true&theme=merko&hide_border=true)](https://github.com/upupnoah)  |[![Top Langs](https://github-readme-stats-three-phi-10.vercel.app/api/top-langs/?username=upupnoah&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)](https://github.com/upupnoah)|
 | ------------- | ------------- |
 
 <!-- &show_icons=true&include_all_commits=true&theme=buefy&hide_border=true -->
